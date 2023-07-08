@@ -7,11 +7,10 @@
 사이트 https://99andrew99.github.io/TodayAstronomyPicture/
 
 
-# <PC>
+<strong><PC></strong> <br/>
 ![image](https://github.com/99andrew99/TodayAstronomyPicture/assets/66951806/0c4cdc29-9bdb-48d3-95ae-0a73529b6938)
 
-
-# <MOBILE>
+<strong><MOBILE></strong><br/>
 ![image](https://github.com/99andrew99/TodayAstronomyPicture/assets/66951806/a9bf3a1f-d23a-462e-a794-42339eaa4b4a)
 
 <br />
