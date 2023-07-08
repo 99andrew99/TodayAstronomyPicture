@@ -11,7 +11,9 @@
 
 # <PC>   
 <br/>
+
 ![image](https://github.com/99andrew99/TodayAstronomyPicture/assets/66951806/0c4cdc29-9bdb-48d3-95ae-0a73529b6938)
+
 <br/><br/><br/>
 
 # <MOBILE>
