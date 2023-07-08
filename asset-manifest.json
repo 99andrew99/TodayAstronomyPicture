@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/static/js/main.7fe2ec5c.js",
-    "index.html": "/index.html",
-    "main.7fe2ec5c.js.map": "/static/js/main.7fe2ec5c.js.map"
+    "main.js": "/TodayAstronomyPicture/static/js/main.ab08e66d.js",
+    "index.html": "/TodayAstronomyPicture/index.html",
+    "main.ab08e66d.js.map": "/TodayAstronomyPicture/static/js/main.ab08e66d.js.map"
   },
   "entrypoints": [
-    "static/js/main.7fe2ec5c.js"
+    "static/js/main.ab08e66d.js"
   ]
 }
