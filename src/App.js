@@ -10,6 +10,10 @@ const TopContainer = styled.div`
   display: flex;
   flex-direction: column;
   align-items: center;
+
+  @media (max-width: 768px) {
+    height: 170vh;
+  }
 `;
 
 const HeaderContainer = styled.div`
@@ -21,6 +25,13 @@ const HeaderContainer = styled.div`
   height: 10%;
   border-top: 10px solid black;
   border-bottom: 10px solid black;
+
+  @media (max-width: 768px) {
+    height: 7%;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
 `;
 
 const Title = styled.p`
@@ -30,6 +41,12 @@ const Title = styled.p`
   margin-left: auto;
   margin-bottom: 0;
   font-family: "Pirata One", cursive;
+
+  @media (max-width: 768px) {
+    margin-left: 0;
+    font-size: 2rem;
+    margin-top: 10px;
+  }
 `;
 
 const TodayDate = styled.p`
@@ -40,6 +57,10 @@ const TodayDate = styled.p`
   margin-left: auto;
   margin-bottom: 10px;
   margin-right: 10px;
+
+  @media (max-width: 768px) {
+    font-size: 0.8rem;
+  }
 `;
 
 const ContentContainer = styled.div`
@@ -48,11 +69,21 @@ const ContentContainer = styled.div`
   display: flex;
   align-items: center;
   justify-content: space-evenly;
+
+  @media (max-width: 768px) {
+    flex-direction: column;
+    height: 85%;
+  }
 `;
 const MainImg = styled.img`
   width: 40%;
   height: 70%;
   border-radius: 5px;
+
+  @media (max-width: 768px) {
+    width: 300px;
+    height: 300px;
+  }
 `;
 
 const MainContainer = styled.div`
@@ -61,6 +92,10 @@ const MainContainer = styled.div`
   flex-direction: column;
   align-items: center;
   justify-content: center;
+
+  @media (max-width: 768px) {
+    width: 100%;
+  }
 `;
 const MainTitle = styled.p`
   font-size: 3rem;
@@ -71,11 +106,19 @@ const MainTitle = styled.p`
   width: 100%;
   text-align: center;
   font-family: "Pirata One", cursive;
+
+  @media (max-width: 768px) {
+    font-size: 1.5rem;
+  }
 `;
 
 const MainText = styled.p`
   font-size: 1.5rem;
   font-weight: 600;
+
+  @media (max-width: 768px) {
+    font-size: 0.9rem;
+  }
 `;
 
 function App() {
