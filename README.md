@@ -9,14 +9,14 @@
 <br/><br/><br/><br/>
 
 
-# <PC>   
+# PC  
 <br/>
 
 ![image](https://github.com/99andrew99/TodayAstronomyPicture/assets/66951806/0c4cdc29-9bdb-48d3-95ae-0a73529b6938)
 
 <br/><br/><br/>
 
-# <MOBILE>
+# MOBILE
 ![image](https://github.com/99andrew99/TodayAstronomyPicture/assets/66951806/a9bf3a1f-d23a-462e-a794-42339eaa4b4a)
 
 <br />
